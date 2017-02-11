@@ -5,6 +5,7 @@
 Esta página tem como objetivo facilitar o acesso as informações relativas aos projetos de desenvolvimento do Site e Softwares para o Lar Santa Mônica.
 
 ### Projetos
+ - Exemplo para uso do Joomla no OpenShift: http://dev.larsantamonica.org.br/joomla-example/
  - https://github.com/LarSantaMonica/larsantamonica.github.com.br
  - https://github.com/LarSantaMonica/sensoviolenciainfantil
  
