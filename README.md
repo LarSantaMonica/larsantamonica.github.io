@@ -11,6 +11,4 @@ Esta página tem como objetivo facilitar o acesso as informações relativas aos
  
 ### Suporte e Contato
 
-Caso queira ajudar de alguma forma, ou solicitar mais informações use o e-mail: webmaster@larsantamonica.org.br
-
-
+Caso queira ajudar de alguma forma ou solicitar mais informações use o e-mail: webmaster@larsantamonica.org.br
