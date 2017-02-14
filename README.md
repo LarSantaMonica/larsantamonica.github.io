@@ -6,7 +6,9 @@ Esta página tem como objetivo facilitar o acesso as informações relativas aos
 
 ### Projetos
  - Exemplo para uso do Joomla no OpenShift: http://dev.larsantamonica.org.br/joomla-example/
- - https://github.com/LarSantaMonica/larsantamonica.github.com.br
+ - Esta página: https://github.com/LarSantaMonica/larsantamonica.github.com.br
+ - Novo Layout do site: https://github.com/LarSantaMonica/novo_layout_site-ng
+ - Debate sobre o formato do novo site: https://github.com/LarSantaMonica/novo_layout_site-ng/wiki
  - https://github.com/LarSantaMonica/sensoviolenciainfantil
  
 ### Suporte e Contato
